@@ -1,6 +1,6 @@
 ### Gaurav Narasimhan · engineer and builder
 
-Engineer and builder, first and always. I spend most of my time writing code, right now across three startups in
+Engineer and builder, first and always. I spend most of my time writing code, right now across two startups in
 parallel. Building agents since 2022: research agents at UC Berkeley, agents that diagnose and fix incidents across an
 enterprise SaaS fleet, a fleet of marketing agents at an SEO startup, and now my own labs.
 
