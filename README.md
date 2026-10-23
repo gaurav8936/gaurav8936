@@ -15,6 +15,7 @@ enterprise SaaS fleet, a fleet of marketing agents at an SEO startup, and now my
 | [**citation-verifier**](https://github.com/gaurav8936/citation-verifier) | Catch an LLM's made-up or misread values: grades every extracted field against the document's own text. |
 | [**change-matcher**](https://github.com/gaurav8936/change-matcher) | Real change or the same clause reworded? A fine-tuned cross-encoder, a value guard and a rule-based fallback. |
 | [**docket-diff**](https://github.com/gaurav8936/docket-diff) | Tell a renumbered regulation from a changed one, and name the change. |
+| [**llm-recall-probes**](https://github.com/gaurav8936/llm-recall-probes) | Does the agent actually remember? Recall scorers with a self-test that shows every check failing first. |
 | [**fail-open-scorer**](https://github.com/gaurav8936/fail-open-scorer) | An ML scoring client that can never block the request it serves. |
 
 **Research:** [FLeX](https://github.com/gaurav8936/FLeX) (Stanford CS224N, cross-lingual code generation) ·
